@@ -1,21 +1,19 @@
 # Cairo VM in Java
 
 ## Why (the problem)
+- Starknet needs client diversity (there are only a few)
 
-- Java-based companies (including the Bitcoin ecosystem), are blocked from adopting Starknet capabilities.
+- Java-based infrastructures, including the Bitcoin ecosystem, are blocked from adopting Starknet capabilities.
 
-- Starknet needs client diversity.
-
+- [Why Cairo VM or why Java?](WHY.md)
 
 ## What it solves (solution)
 
-- Resolves client dependency (Rust, Go + Java)
+- Resolves client dependency (Adds Java to the scene)
 
-- A native Java Cairo VM allows teams to embed Cairo VM directly in their existing Java applications.
-
-- Java teams can own the full stack end-to-end, leverage existing tooling and infrastructure, and deploy everything in one unified stack. 
+- Java applications will be able to embed Cairo VM directly into their tech stack, enabling teams to own the full stack end-to-end, leverage existing tooling and infrastructure, and deploy everything in one unified stack. 
  
-- This enables Bitcoin ecosystem companies to adopt Starknet capabilities without architectural compromises.
+- Enables Java based Bitcoin ecosystem companies to adopt Starknet capabilities without architectural compromises.
 
 ## How to accomplish
 
